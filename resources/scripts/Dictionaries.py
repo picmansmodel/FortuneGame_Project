@@ -2,11 +2,26 @@
 Dictionaries for :
 
 "Snow Globe"	> no good idea jet
-"Destiny"		> Big Arcanum  + fath is implemented > Small one needs to be implemented + fath > use zip(big, small) to create all_card_dic
-"Fotune Cooie"	> random wisedom from around the world
+"Destiny"		> Big Arcanum Tarot Deck, other card decks ar possible
+"Fotune Cookie"	> random wisedom from around the world
 "A Tea Leaves Reading" > User should input a yes or no question > Buch der antworten
 
 """
+
+#_________________________________________________Fortune Cookie_____________________________________________________________________________________________________________________________
+
+fortune_cookie_lst = ["The early bird gets the worm, but the secound mouse gets the cheese.", "Your road to glory will be rocky, but fulfilling.", "Patience is your alley at the moment. Don’t worry!",
+"Courage is not the absence of fear; it is the conquest of it.", "All things are difficult before they are easy.", "A ship in harbor is safe, but that’s not why ships are built.", 
+"If you want the rainbow, you have to tolerate the rain.", "Fear is interest paid on a debt you may not owe.", "The usefulness of a cup is in its emptiness.", "Zandra knows your future.", 
+"Of all our human resources, the most precious is the desire to improve.", "People learn little from success, but much from failure.", "A person who won’t read has no advantage over a person who can’t read.",
+"Never forget that a half truth is a whole lie.", "No snowflake in an avalanche ever feels responsible", "If you eat something and nobody sees you eat it. It has noe calories.", 
+"You don´t have to be faster than the bear, you just have to be faster than the slowest guy running from it.", "You look pretty. In youth and beauty, wisdom is rare.",
+"There will be money in your future---  it is not yours though.", "Three can keep a secret, if you get rid of two", "Love is on the horizon.The stars predict\nhe will be tall,dark and a centaur.",
+"You laugh now, wait till you get home.", "Your resemblance to a muppet will prevent the world from taking you seriously", "What´s the speed of dark?", 
+"Your fortune said you need to make a donation. Give it to Zandra.", "A real patriot is a fellow who gets a parking ticket \nand rejoices that the system works.", "When in danger, sing the alphabet",
+"Fear is like fire. It can burn your house down \nand you can warm your hands on it.", "Pregnancy is a gift.\nAnd in your case it will also be a surprise.", "The fortune you seek is in another cookie.", 
+"A foolosh man is listens to his heart\nA wise man is listen to cookies and Zandra.", "You suck az parking.", "Foot: A device for finding furniture in the dark.", "No one reads reads your blog."]
+
 
 #_________________________________________________Tarot Card Info____________________________________________________________________________________________________________________________
 
