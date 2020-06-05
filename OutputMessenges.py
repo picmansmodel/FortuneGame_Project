@@ -4,11 +4,6 @@ Here you can find all that Zendra has to say to her clients and some output that
 """
 #_______________________________WIP Messages for not implementet assets____________________________
 
-construction_messages = "Crystal Skull and Tea Leave Reading are currently under constuction. Sorry"
-
-
-
-
 enter_shop_message = "Welcome to \"Zandras Beard and Fortune!\""
 exit_message = "You can always type in \"e\" to exit my shop with some tresures experience. * At some coast, of course."
 restart_message = "If you desire somthing else. Type in \"r\" for restart.\n\n"
@@ -16,7 +11,7 @@ goodbye_message = "Thank you for taking a Break in Fate and Furtune! \nThat´s 1
 
 #_______________________________________________________This it what Zandra has to offer______________________________________________________________________________________
 
-offer_question = "Type in: \n\n\"s\" for \"Crystal Skull\"\n\"d\" for \"Destiny\"\n\"f\" for \"Fotune Cooie\"\n\"t\" for \"A Tea Leaves Reading\"\n\"e\" for \"Exit\"\n\"r\" for \"Restart Session\"\n\n"
+offer_question = "Type in: \n\n\"s\" for \"Crystal Skull\"\n\"d\" for \"Destiny\"\n\"f\" for \"Fotune Cooie\"\n\"e\" for \"Exit\"\n\"r\" for \"Restart Session\"\n\n"
 exit_or_restart_message = "Can Zandra help you with something else? Or would you like to leave?\n"
 exit_or_restart_question = "Type in \n\n\"r\" to see again what I have to offer\n\"e\" to exit my shop.\n"
 

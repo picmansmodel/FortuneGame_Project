@@ -21,11 +21,6 @@ def main():
 #___Offering Funktion:
 
 def offering():
-	#_WIP INFO
-	print(construction_points)
-	print(construction_messages)
-	print(construction_points)
-	#_del up later
 	print(inbetween_message)
 	time.sleep(1)
 	print(dramatic_mute_points)
@@ -42,10 +37,6 @@ def offering():
 			break
 		elif user_choice == "f":
 			fortune_cookie()
-			break
-		elif user_choice == "t":
-			print(headline_points_tea_leaves_reading)
-			print("tea_leave_reading funktion is not implementet jet")
 			break
 		elif user_choice == "e":
 			exit_shop()
